@@ -1,0 +1,8 @@
+bigBOSS - BOSS off all Search Engines
+
+
+This is basically a search engine, which reduces a user’s effort and saves his time with no need to switch between the tabs for getting search results for various categories.
+
+Suppose, if one wants to search for a query “war craft” and want to get the results of only games, its hard for a search engine to recognize the term as a game, since it’s a common dictionary word. So, a link has been added in the dropdown for many common terms such as music, technology, movies, games, news, etc …  Also, WolframAlpha API which is the best API to produce output for many computational results has been integrated along with BOSS API, so that we get results for most of engineering queries, which are useful for Engg. Students(also for students b/w age 12-18 yrs. In solving their math, sciences Homeworks).Effective Implementation of many efficient algorithms by Wolfram Alpha helps in solving many of mathematical, physics, science and also problems in genetics.
+
+HACK URL :  http://www.hackyourworld.org/~iitkgp_tsndiffopera/
